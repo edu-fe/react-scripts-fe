@@ -19,7 +19,7 @@ process.on('unhandledRejection', err => {
   throw err;
 });
 
-console.log("bbbb");
+console.log("react-scripts-fe");
 
 // Ensure environment variables are read.
 require('../config/env');
